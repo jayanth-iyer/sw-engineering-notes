@@ -16,3 +16,5 @@
 7. [Kafka Internals](https://medium.com/@paarth.jain/kafka-beyond-the-basics-architecture-internals-and-interview-prep-3354c0ab7819)
 8. [Speeding up Python](https://x.com/i/status/2004660554149904830)
 9. [Backend Technical Interview Prep](https://x.com/0xlelouch_/status/2003210231640391691)
+10. [Kafka Cheat Sheet](https://www.linkedin.com/posts/rajya-vardhan_i-am-an-engineering-manager-at-google-with-activity-7397969712384532480-CTd3?utm_source=share&utm_medium=member_android&rcm=ACoAAAKA0gEB1jFV39-5fFKIQmSWa8y31BIRF5I)
+11. [Tool to find Security issues in Python code](https://github.com/PyCQA/bandit)
