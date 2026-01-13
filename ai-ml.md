@@ -17,3 +17,7 @@
 8. [Learn Databricks in 2 hrs](youtube.com/watch?si=QM2UofCbL_f-Mr98&v=CoqZTt528ew&feature=youtu.be)
 
 9. [AI/ML Beginner Guide](https://www.notion.so/AI-ML-Beginner-Guide-2bb209376c8980cd8bebdcd54478c908)
+
+10. [Claude Code 102](https://x.com/eyad_khrais/status/2010810802023141688)
+
+11. [AI Agent from Scratch](https://x.com/DBVolkov/status/2011052128253722976)
