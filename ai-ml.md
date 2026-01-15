@@ -21,3 +21,5 @@
 10. [Claude Code 102](https://x.com/eyad_khrais/status/2010810802023141688)
 
 11. [AI Agent from Scratch](https://x.com/DBVolkov/status/2011052128253722976)
+
+12. [React Best Practices Skills.md](https://vercel.com/blog/introducing-react-best-practices)
