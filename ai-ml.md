@@ -23,3 +23,7 @@
 11. [AI Agent from Scratch](https://x.com/DBVolkov/status/2011052128253722976)
 
 12. [React Best Practices Skills.md](https://vercel.com/blog/introducing-react-best-practices)
+
+13. [Writing Good Spec for AI Agents](https://addyosmani.com/blog/good-spec/)
+
+14. [Claude Code for PM](https://youtu.be/59gy_24KIVE?si=YDffvjWq03tIWIDT)

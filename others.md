@@ -11,3 +11,5 @@
 3. [Dynamic Pricing - ECommerce](https://kmeanskaran.substack.com/p/introduction-to-dynamic-pricing?utm_campaign=post&utm_medium=web&triedRedirect=true&s=08)
 
 4. [Context Graphs](https://x.com/i/status/2011117250762207347)
+
+5. [Tech Stack for SaaS](https://x.com/auralix4/status/2011782418173476869)
