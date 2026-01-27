@@ -13,3 +13,9 @@
 4. [Context Graphs](https://x.com/i/status/2011117250762207347)
 
 5. [Tech Stack for SaaS](https://x.com/auralix4/status/2011782418173476869)
+
+6. [How to Ship](https://www.seangoedecke.com/how-to-ship/)
+
+7. [AI Agents in Financial Services](https://x.com/i/status/2015174818497437834)
+
+8. [ATS Friendly Resume](https://drive.google.com/file/d/1AC-5bPjrm2zTfgwwywzq_pkYeYTkB69r/view)

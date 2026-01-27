@@ -44,3 +44,5 @@
 15. [RabbitMQ - Complete Guide](https://medium.com/@erickzanetti/rabbitmq-a-complete-guide-to-message-broker-performance-and-reliability-3999ee776d85)
 
 16. [SSH Tunnels Deep Dive](https://blog.sysxplore.com/p/part-1-ssh-local-port-forwarding)
+
+17. [Tech Debt](https://tech.loveholidays.com/the-hidden-technical-debt-thats-killing-your-codebase-and-how-to-find-it-b92260c31cec)

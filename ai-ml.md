@@ -27,3 +27,11 @@
 13. [Writing Good Spec for AI Agents](https://addyosmani.com/blog/good-spec/)
 
 14. [Claude Code for PM](https://youtu.be/59gy_24KIVE?si=YDffvjWq03tIWIDT)
+
+15. [Complete Guide to become ML Engineer](https://x.com/ArmanHezarkhani/status/2013608521900683765)
+
+16. [The Agentic AI Handbook: Production Ready Patterns](https://www.nibzard.com/agentic-handbook)
+
+17. [Claude Code Local](https://x.com/i/status/2014380662300533180)
+
+18. [Learning ML](https://www.deep-ml.com/)
