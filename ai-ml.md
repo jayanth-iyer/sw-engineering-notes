@@ -35,3 +35,13 @@
 17. [Claude Code Local](https://x.com/i/status/2014380662300533180)
 
 18. [Learning ML](https://www.deep-ml.com/)
+
+19. [Coding Workflow](https://x.com/i/status/2015883857489522876)
+
+20. [The Complete Guide: How to become an AI Agent Engineer in 2026](https://x.com/ArmanHezarkhani/status/2016195092877578490)
+
+21. [AI Research Fundamentals](https://www.orchestra-research.com/intro-to-ai-research)
+
+22. [Building an LLM from scratch in Rust](https://www.tag1.com/how-to/part1-tokenization-building-an-llm-from-scratch-in-rust/)
+
+23. [Training LLMs Shouldn't Require a PhD](https://www.tag1.com/how-to/part1-tokenization-building-an-llm-from-scratch-in-rust/)

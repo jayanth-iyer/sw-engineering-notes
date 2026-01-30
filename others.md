@@ -19,3 +19,5 @@
 7. [AI Agents in Financial Services](https://x.com/i/status/2015174818497437834)
 
 8. [ATS Friendly Resume](https://drive.google.com/file/d/1AC-5bPjrm2zTfgwwywzq_pkYeYTkB69r/view)
+
+9. [Open Roles at Startups](https://a16zbuild.substack.com/p/open-roles-at-startups-that-just)
