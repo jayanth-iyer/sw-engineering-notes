@@ -45,3 +45,5 @@
 22. [Building an LLM from scratch in Rust](https://www.tag1.com/how-to/part1-tokenization-building-an-llm-from-scratch-in-rust/)
 
 23. [Training LLMs Shouldn't Require a PhD](https://www.tag1.com/how-to/part1-tokenization-building-an-llm-from-scratch-in-rust/)
+
+24. [Mission Control Plane for AI Agents] (https://x.com/pbteja1998/status/2017662163540971756)

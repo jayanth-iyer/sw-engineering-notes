@@ -21,3 +21,9 @@
 8. [ATS Friendly Resume](https://drive.google.com/file/d/1AC-5bPjrm2zTfgwwywzq_pkYeYTkB69r/view)
 
 9. [Open Roles at Startups](https://a16zbuild.substack.com/p/open-roles-at-startups-that-just)
+
+10. [Code is Cheap, show me the talk](https://nadh.in/blog/code-is-cheap/)
+
+11. [10 CS Engineering Books to Study](https://x.com/oprydai/status/2017885049966710923)
+
+12. [How to become Hardware Engineer](https://x.com/Av1dlive/status/2017294782574579714)
