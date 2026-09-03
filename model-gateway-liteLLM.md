@@ -5,6 +5,8 @@ While standard LLM proxies (like **LiteLLM**) provide basic model abstraction, u
 
 This document details the architectural blueprint for building a **Financial AI Governance & Compliance Wrapper** on top of LiteLLM to make it enterprise-ready for regulated environments.
 
+**MVP backlog (cut scope, user stories, error codes):** [financial-ai-gateway-mvp-user-stories.md](financial-ai-gateway-mvp-user-stories.md)
+
 ---
 
 ## Architecture Blueprint

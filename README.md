@@ -6,3 +6,4 @@
 1. [Backend Engineering](backend-engineering.md)
 2. [AI/ML](ai-ml.md)
 3. [Product Management](product-mgmt.md)
+4. [Financial AI Gateway MVP user stories](financial-ai-gateway-mvp-user-stories.md) (see also [LiteLLM architecture blueprint](model-gateway-liteLLM.md))
